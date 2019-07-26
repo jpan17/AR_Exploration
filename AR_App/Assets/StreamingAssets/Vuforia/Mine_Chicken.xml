@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Mine_Chicken"/>
+
+</Tracking>
+
+<Assembly name="Mine_Chickens_assembly" assemblyId="e95d47079ea8496bb4b276af51ca6b7d">
+<Part name="Mine_Chicken" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0298676 0.0424456 0.196029" rotation="AD: 0.9999999999984931 -0.0013212436733862167 -0.0016739064315934764 103.431" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

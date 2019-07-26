@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="Mine_Chicken.stl" targetId="0c1d42e0bff041469d37ca494b7cc72a" version="11.1" toolVersion="8.3.8" bbox="-67.500000 -26.267099 0.000000 7.500000 60.000000 79.022202" previewImage="0c1d42e0bff041469d37ca494b7cc72a_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Mine_Chicken.stls_assembly" assemblyId="b0e69d5544104cd6bedfa19099863675">
+<Part name="Mine_Chicken.stl" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-32.9006 48.9613 322.008" rotation="AD: 0.9999999996302267 0.004724285621787987 0.006957978206800814 111.651" image="Mine_Chicken.stl_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

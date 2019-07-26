@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="Mine_Chicken" targetId="12454a73e1e4465eb66ce52f0527530f" version="11.1" toolVersion="8.3.8" bbox="-0.067500 -0.026267 0.000000 0.007500 0.060000 0.079022" previewImage="12454a73e1e4465eb66ce52f0527530f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Mine_Chickens_assembly" assemblyId="e95d47079ea8496bb4b276af51ca6b7d">
+<Part name="Mine_Chicken" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0298676 0.0424456 0.196029" rotation="AD: 0.9999999999984931 -0.0013212436733862167 -0.0016739064315934764 103.431" image="Mine_Chicken_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
